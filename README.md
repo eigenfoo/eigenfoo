@@ -10,7 +10,7 @@ For more about me (e.g. my blog, projects and résumé), please visit [my websit
 
 ## Contact
 
-I love [getting emails](mailto:george[æ]eigenfoo.xyz) from non-bots, and you can also find me on [Twitter](https://twitter.com/_eigenfoo) and [LinkedIn](https://www.linkedin.com/in/eigenfoo/).
+I love [getting emails](mailto:george[æ]eigenfoo.xyz) from non-bots, and you can also find me on [Twitter](https://twitter.com/_eigenfoo), <a rel="me" href="https://bright.rosy-colored.space/@george">Mastodon</a> and [LinkedIn](https://www.linkedin.com/in/eigenfoo/).
 
 <!--
 **eigenfoo/eigenfoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
